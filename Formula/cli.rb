@@ -2,9 +2,9 @@ class Cli < Formula
   desc ''
   homepage 'https://dl.equinox.io/wedeploy/cli'
 
-  url 'https://bin.equinox.io/a/mgPdUwH6m1F/cli-1.1.10-darwin-amd64.tar.gz'
-  sha256 '185be387fcff798cb075ee049d68cf091ce8191ea963b65b9ded5332d86505de'
-  version '1.1.10'
+  url 'https://bin.equinox.io/a/iZ1FTMqPcVK/cli-1.1.11-darwin-amd64.tar.gz'
+  sha256 'e8ff8f5181fa25ac682ace08a019e468cd17d2ec8252f420787bb07ccd90d767'
+  version '1.1.11'
 
   def install
     bin.install 'we'
